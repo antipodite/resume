@@ -1,8 +1,8 @@
-#+MACRO: FIRST    Andrew M.
-#+MACRO: LAST     Davis
+#+MACRO: FIRST    Isaac R. K.
+#+MACRO: LAST     Stead
 #+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
-#+MACRO: BLOG     www.andrewmichaeldavis.com
-#+MACRO: EMAIL    amdavis@uchicago.edu
-#+MACRO: CODE     reconmaster
+#+MACRO: PLACE    Wellington, Aotearoa     
+#+MACRO: EMAIL    isaac.stead@protonmail.com
+#+MACRO: CODE     github.org/antipodite
 
-#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{BLOG}}} }{ {{{EMAIL}}} }{ {{{CODE}}} }}
+#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{PLACE}}} }{ {{{EMAIL}}} }{ {{{CODE}}} }}

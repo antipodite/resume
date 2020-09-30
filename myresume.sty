@@ -29,7 +29,7 @@
 \newcommand{\resheader}[6]{
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}cr}
     #3 & \textbf{\LARGE #1} & #4\\
-       & \url{#2}           &   \\
+       & #2           &   \\
     \end{tabular*}
     \\
     \vspace{0.1in}
@@ -38,7 +38,7 @@
 %% Font
 \usepackage[encapsulated]{CJK}
 \usepackage{ucs}
-\usepackage[utf8x]{inputenc}
+\usepackage[utf8,utf8x]{inputenc}
 % use one of bsmi(trad Chinese), gbsn(simp Chinese), min(Japanese), mj(Korean); see:
 % /usr/share/texmf-dist/tex/latex/cjk/texinput/UTF8/*.fd
 \newcommand{\jntext}[1]{\begin{CJK}{UTF8}{min}#1 \end{CJK}}

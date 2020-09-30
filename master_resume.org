@@ -1,5 +1,5 @@
 #+OPTIONS: toc:nil H:10 tex:t
-#+STARTUP: hidestars indent
+#+STARTUP: indent
 #+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{myresume}
 #+LaTeX_HEADER: \hypersetup{hidelinks}
@@ -21,62 +21,43 @@
 {{{HEADER}}}
 
 * Education
-** *University of Chicago* (Chicago, IL)
-*** 2012-present
-Medical Physics PhD, expected Autumn 2016
-
-** *Kyoto Japanese Language School* (Kyoto, JP)
-*** 2011-2012
-*\jntext{京都日本語学校}* (\jntext{京都, 日本})
-
-** *University of North Carolina* (Chapel Hill, NC)
-*** 2004-2008
-Physics BS and Mathematics Minor
-
-** *Duke University* (Durham, NC)
-*** 2004-2008
-Robertson Scholar Concurrent Enrollment
-
-** *Bristol University* (Bristol, UK)
-*** 2006-2007
-Studied abroad with internship at CERN (Geneva, CH)
-
+** *Victoria University of Wellington* (Wellington, NZ)
+*** 2019-June 2020
+Master of Arts, Linguistics
+** *Victoria University of Wellington* 
+*** 2016-2018
+Bachelor of Arts, Linguistics
 
 * Research Experience
-** *Committee on Medical Physics, University of Chicago* (Chicago, IL)
-*** 2012-present
-- Developing tomographic reconstruction methods for novel
-  radiation-therapy imaging trajectories
-- Designed and manufactured phantoms for image quality analysis
-- Created geometric calibration methods and phantoms for new scanning
-  trajectories
-- Presented research at industry and scientific conferences
+** *MA programme, Victoria University of Wellington*
+*** 2020-present
+- Building on summer research internship, conducted independent research on comparative syntactic typology of Austronesian languages and its relation to new findings in Austronesian/Malayo-Polynesian subgrouping models, archaeology, and genetics.
+- Presented my findings as part of the 2020 LALS seminar series.
+** *Summer research internship, Victoria University of Wellington*
+*** 2019-2020
+- Working closely with Dr. Victoria Chen, conducted a detailed survey of the syntactic typology of 43 Austronesian languages sampled from all primary branches of Austronesian, and all primary branches of Malayo-Polynesian as identified in the most recent subgrouping model proposed by Alexander Smith (2017).
+- Created typological maps of this data using QGIS and Python.
+** *Honours Phonology research project*
+*** 2019
+- Conducted an original research project on Solomon Islands Pijin an English/Oceanic creole language.
+- Recorded utterance data from native speakers of Solomon Islands Pijin I recruited from the community.
+- Conducted phonological analysis on this data using PRAAT, verifying the assertion made in the literature for this language that the metrical structure of Pijin words reflects their lexical origin in English or Oceanic languages.
 
-* Work Experience
-** *XinRay Systems LLC* (Research Triangle Park, NC)
-*** 2008-2011
-- Developed simulation models to optimize carbon-nanotube-based
-  tomographic x-ray devices
-** *Teach for America* (Chapel Hill, NC)
-*** 2007-2008
-- Coordinated UNC campus teacher recruitment campaign
+* Relevant Work Experience
+** *Operations analyst - TranscribeMe, Inc.*
+*** 2012-2015
+- Recruited for, built and coordinated a processing pipeline for crowdsourced transcription for x hours per day of call centre audio from a major New Zealand agricultural company.
+- Developed custom reporting, management and training software for the operations team using Python and MS SQL Server.
 
 * Honors
-** *Fellowships & Grants*
-- Lawrence H. Lanzl Graduate Student Fellowship in Medical Physics
-  \hfill /2015/ \newline (Recognition of Exceptional Research Ability)
-- Graduate Council Travel Fund Award \hfill /2015/
-- IEEE NSS-MIC-RTSD Trainee Grant \hfill /2013 & 2015/
-
-** *Awards*
-- Carl J. Vyborny Award for Outstanding Journal Club Presentation
-  \hfill /2014 & 2015/
-
+- Master of Arts degree awarded with Distinction
+- Included on Dean's List for academic excellence, 2016.
 
 * Skills
-- Scientific Computing :: C/C++, CUDA/GPU acceleration, Emacs/Lisp,
-     Finite Element Simulation, FORTRAN, Git, ITK, Java, \LaTeX,
-     Linux, Literate Programming, MATLAB, Python, SolidWorks, Unit
-     Testing
-* Interests and Hobbies
-- Black belt and instructor in Shodokan Aikido (\jntext{合気道})
+- Computing :: Python, SQL/PostgreSQL, R, Common Lisp, Linux system administration, Git, \LaTeX, QGIS, HTML/CSS/Javascript, functional programming, algorithm design.
+- Linguistics :: Data collection and experiment design; Analytical techniques for syntax, historical linguistics, phonetics and phonology
+
+* Research interests
+
+Austronesian languages, historical linguistics, syntax, typology, linguistic anthropology, contact linguistics.
+
